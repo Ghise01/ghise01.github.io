@@ -1,13 +1,13 @@
 # 🌐 Portafolio de Ghiselle Voisier
 
 ¡Bienvenido a mi portafolio virtual!  
-Soy **estudiante de seguridad informática** con interés en ciberseguridad, redes y soporte técnico.  
+Soy **estudiante de Fundamentos de seguridad en plataformas Computacionales ** con interés en ciberseguridad, redes y soporte técnico.  
 
 ---
 
 ## 👩‍💻 Sobre mí
 - 📍 De Chile  
-- 🎓 Formación en **Seguridad en Plataformas Computacionales – Hacking Ético** (Desafío Latam)  
+- 🎓 Formación en **Seguridad en Plataformas Computacionales** (Desafío Latam)  
 - 📡 Certificación en **Cisco Networking Academy – Fundamentos de Networking**  
 - 🖥️ Experiencia en soporte informático, virtualización y administración básica de servidores  
 
