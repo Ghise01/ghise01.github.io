@@ -32,8 +32,6 @@ Implementación de una arquitectura en la nube con:
 
 👉 [Ver el documento completo](https://github.com/Ghise01/tu-repo-o-archivo/blob/main/ejercicio%20en%20clases%20VPC-EC2-RDS.docx)  
 
-*(El enlace debe apuntar a tu archivo en GitHub o Google Drive, te explico cómo abajo ⬇️)*
-
 ---
 
 ## 📫 Contacto
