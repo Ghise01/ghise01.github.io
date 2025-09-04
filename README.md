@@ -1,7 +1,7 @@
 # 🌐 Portafolio de Ghiselle Voisier
 
 ¡Bienvenido a mi portafolio virtual!  
-Soy **estudiante de Fundamentos de seguridad en plataformas Computacionales ** con interés en ciberseguridad, redes y soporte técnico.  
+Estudiante de Fundamentos de seguridad en plataformas Computacionales  
 
 ---
 
