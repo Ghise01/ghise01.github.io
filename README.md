@@ -17,7 +17,7 @@ Tengo experiencia práctica en soporte informático, virtualización con Virtual
 
 ---
 
-## 🔧 Habilidades Técnicas
+## Habilidades Técnicas
 - Redes y soporte técnico  
 - Seguridad en la nube (AWS: S3, IAM, EC2, VPC, RDS)  
 - Virtualización con VirtualBox (Linux Mint, Windows Server, Fedora)  
@@ -25,9 +25,9 @@ Tengo experiencia práctica en soporte informático, virtualización con Virtual
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
-### 🚀 Ejercicio VPC – EC2 – RDS en AWS
+### 📂 Ejercicio VPC – EC2 – RDS en AWS
 Implementación de una arquitectura en la nube con:  
 - VPC con subredes públicas y privadas  
 - Instancia EC2  
