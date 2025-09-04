@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -63,6 +62,19 @@
             text-align: center;
             color: #4B0082;
         }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 3px solid #C71585; /* Medium violet red border */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+            margin-bottom: 20px;
+            transition: transform 0.3s ease-in-out;
+        }
+        .profile-img:hover {
+            transform: scale(1.05); /* Slight zoom on hover for interactivity */
+        }
     </style>
 </head>
 <body>
@@ -109,12 +121,12 @@
             <h2 class="text-center mb-4">Sobre mí</h2>
             <div class="row">
                 <div class="col-md-8 mx-auto">
-                    <div class="card p-4">
+                    <div class="card p-4 text-center">
                         <img src="images/fotoperfil.jpg" alt="Foto de Ghiselle Voisier" class="profile-img mx-auto">
-                        <p>Soy Ghiselle Voisier, estudiante de Fundamentos de seguridad en plataformas Computacionales con interés en ciberseguridad y soporte técnico. </p>
-                        <p>Soy de La Serena, Chile. </p>
-                        <p>Actualmente me dedico a perfeccionarme en el área de redes, soporte y seguridad, participando en cursos especializados como Cisco NetAcad y fundamentos de hacking ético. </p>
-                        <p><strong>Formación:</strong> </p>
+                        <p>Soy Ghiselle Voisier, estudiante de Fundamentos de seguridad en plataformas Computacionales con interés en ciberseguridad y soporte técnico.</p>
+                        <p>Soy de La Serena, Chile.</p>
+                        <p>Actualmente me dedico a perfeccionarme en el área de redes, soporte y seguridad, participando en cursos especializados como Cisco NetAcad y fundamentos de hacking ético.</p>
+                        <p><strong>Formación:</strong></p>
                         <p>He realizado cursos en plataformas reconocidas (Cisco Networking Academy, Desafío Latam), enfocados en redes, sistemas operativos Linux y fundamentos de seguridad.</p>
                     </div>
                 </div>
@@ -169,7 +181,7 @@
             <div class="row">
                 <div class="col-md-8 mx-auto">
                     <div class="card p-4">
-                        <h3> VPC – EC2 – RDS en AWS</h3>
+                        <h3>VPC – EC2 – RDS en AWS</h3>
                         <p>Implementación de una arquitectura en la nube con:</p>
                         <ul>
                             <li>VPC con subredes públicas y privadas</li>
@@ -191,9 +203,9 @@
             <div class="row">
                 <div class="col-md-8 mx-auto">
                     <div class="card p-4 text-center">
-                     <p><i class="bi bi-envelope me-2"></i>Email: ghiselle.voisier@gmail.com</p>
-                        <p><i class="bi bi-github me-2"></i>GitHub: <a href="https://github.com/Ghise01" target="_blank">Ghiselle</a></p>
-                      <p><i class="bi bi-linkedin me-2"></i>LinkedIn: <a href="https://www.linkedin.com/in/ghiselle-voisier-15ba5033" target="_blank">ghiselle-voisier</a></p>
+                        <p><i class="bi bi-envelope me-2"></i>Email: <a href="mailto:ghiselle.voisier@gmail.com">ghiselle.voisier@gmail.com</a></p>
+                        <p><i class="bi bi-github me-2"></i>GitHub: <a href="https://github.com/Ghise01" target="_blank">Ghise01</a></p>
+                        <p><i class="bi bi-linkedin me-2"></i>LinkedIn: <a href="https://www.linkedin.com/in/ghiselle-voisier-15ba5033" target="_blank">ghiselle-voisier</a></p>
                     </div>
                 </div>
             </div>
@@ -208,7 +220,7 @@
     </footer>
 
     <!-- Bootstrap JS and Popper.js -->
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
