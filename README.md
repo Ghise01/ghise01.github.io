@@ -15,6 +15,8 @@ Soy **estudiante de Fundamentos de seguridad en plataformas Computacionales ** c
 ## Experiencia 
 Tengo experiencia práctica en soporte informático, virtualización con VirtualBox y administración básica de servidores Linux y Windows. Aunque no cuento con una trayectoria laboral extensa en ciberseguridad, estoy desarrollando proyectos prácticos y formación continua.
 
+---
+
 ## 🔧 Habilidades Técnicas
 - Redes y soporte técnico  
 - Seguridad en la nube (AWS: S3, IAM, EC2, VPC, RDS)  
