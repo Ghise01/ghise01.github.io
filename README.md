@@ -6,14 +6,25 @@ Soy **estudiante de Fundamentos de seguridad en plataformas Computacionales ** c
 ---
 
 ## Sobre mí
-- 📍 Soy de La Serena, Chile  
-- 🎓 Formación en **Seguridad en Plataformas Computacionales** (Desafío Latam)  
-- 📡 Certificación en **Cisco Networking Academy – Fundamentos de Networking**  
-- 🖥️ Experiencia en soporte informático, virtualización y administración básica de servidores  
+Soy Ghiselle Voisier, estudiante de Fundamentos de seguridad en plataformas Computacionales con interés en ciberseguridad y soporte técnico.
+
+¿De dónde soy?
+
+Soy de La Serena, Chile.
+
+📍¿A qué me dedico?
+
+Actualmente me dedico a perfeccionarme en el área de redes, soporte y seguridad, participando en cursos especializados como Cisco NetAcad y fundamentos de hacking ético.
+
+🎓 Formación
+
+He realizado cursos en plataformas reconocidas (Cisco Networking Academy, Desafío Latam), enfocados en redes, sistemas operativos Linux y fundamentos de seguridad.
 
 ---
 ## Experiencia 
 Tengo experiencia práctica en soporte informático, virtualización con VirtualBox y administración básica de servidores Linux y Windows. Aunque no cuento con una trayectoria laboral extensa en ciberseguridad, estoy desarrollando proyectos prácticos y formación continua.
+
+tengo motivación, responsabilidad y deseo de seguir creciendo en el área de ciberseguridad. Me destaco por mi capacidad de aprendizaje y mi interés en aplicar buenas prácticas de seguridad en entornos reales.
 
 ---
 
