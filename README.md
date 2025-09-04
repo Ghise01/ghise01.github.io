@@ -5,13 +5,15 @@ Soy **estudiante de Fundamentos de seguridad en plataformas Computacionales ** c
 
 ---
 
-## 👩‍💻 Sobre mí
-- 📍 De Chile  
+## Sobre mí
+- 📍 Soy de La Serena, Chile  
 - 🎓 Formación en **Seguridad en Plataformas Computacionales** (Desafío Latam)  
 - 📡 Certificación en **Cisco Networking Academy – Fundamentos de Networking**  
 - 🖥️ Experiencia en soporte informático, virtualización y administración básica de servidores  
 
 ---
+## Experiencia 
+Tengo experiencia práctica en soporte informático, virtualización con VirtualBox y administración básica de servidores Linux y Windows. Aunque no cuento con una trayectoria laboral extensa en ciberseguridad, estoy desarrollando proyectos prácticos y formación continua.
 
 ## 🔧 Habilidades Técnicas
 - Redes y soporte técnico  
