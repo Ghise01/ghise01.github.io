@@ -1,24 +1,42 @@
-# Ghiselle Voisier Díaz
+# 🌐 Portafolio de Ghiselle Voisier
+
+¡Bienvenido a mi portafolio virtual!  
+Soy **estudiante de seguridad informática** con interés en ciberseguridad, redes y soporte técnico.  
+
+---
 
 ## 👩‍💻 Sobre mí
-Soy estudiante de seguridad informática con interés en ciberseguridad, redes y soporte técnico.  
-Actualmente curso **Fundamentos de Seguridad en Plataformas Computacionales** en Desafío Latam, además de certificaciones en Cisco NetAcad.
+- 📍 De Chile  
+- 🎓 Formación en **Seguridad en Plataformas Computacionales – Hacking Ético** (Desafío Latam)  
+- 📡 Certificación en **Cisco Networking Academy – Fundamentos de Networking**  
+- 🖥️ Experiencia en soporte informático, virtualización y administración básica de servidores  
 
-## 📚 Formación
-- Curso Fundamentos de Hacking Ético – Desafío Latam  
-- Cisco Networking Academy – Fundamentos de Networking  
-- Administración de sistemas Linux y Windows en entornos virtualizados  
+---
 
-## 🔧 Habilidades
+## 🔧 Habilidades Técnicas
 - Redes y soporte técnico  
-- Seguridad en la nube (AWS S3, IAM, EC2, VPC, RDS)  
-- Virtualización (VirtualBox, Linux Mint, Windows Server)  
-- Manejo básico de Active Directory, GPOs y DHCP  
+- Seguridad en la nube (AWS: S3, IAM, EC2, VPC, RDS)  
+- Virtualización con VirtualBox (Linux Mint, Windows Server, Fedora)  
+- Gestión básica de Active Directory, GPOs y DHCP  
+
+---
 
 ## 📂 Proyectos
-- [Ejercicio VPC–EC2–RDS en AWS]
+
+### 🚀 Ejercicio VPC – EC2 – RDS en AWS
+Implementación de una arquitectura en la nube con:  
+- VPC con subredes públicas y privadas  
+- Instancia EC2  
+- Base de datos en Amazon RDS (Aurora MySQL)  
+- Configuración de grupos de seguridad y pruebas de conexión  
+
+👉 [Ver el documento completo](https://github.com/Ghise01/tu-repo-o-archivo/blob/main/ejercicio%20en%20clases%20VPC-EC2-RDS.docx)  
+
+*(El enlace debe apuntar a tu archivo en GitHub o Google Drive, te explico cómo abajo ⬇️)*
+
+---
 
 ## 📫 Contacto
-- Email:ghiselle.voisier@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ghiselle-voisier-15ba5033/
-- GitHub: [https://github.com/Ghise01](https://github.com/Ghise01)
+- ✉️ Email: tu-correo  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ghiselle-voisier-15ba5033)  
+- 🐙 [GitHub](https://github.com/Ghise01)
