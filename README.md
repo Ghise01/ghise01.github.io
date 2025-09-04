@@ -30,7 +30,8 @@ Implementación de una arquitectura en la nube con:
 - Base de datos en Amazon RDS (Aurora MySQL)  
 - Configuración de grupos de seguridad y pruebas de conexión  
 
-👉 [Ver el documento completo](ejercicio en clases VPC-EC2-RDS.docx)
+👉 [Ver el documento completo]https://ghise01.github.io/Desafio_AWS.docx
+
 
 ---
 
