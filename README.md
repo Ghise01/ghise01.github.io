@@ -35,6 +35,6 @@ Implementación de una arquitectura en la nube con:
 ---
 
 ## 📫 Contacto
-- ✉️ Email: tu-correo  
+- ✉️ Email: ghiselle.voisier@gmail.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ghiselle-voisier-15ba5033)  
 - 🐙 [GitHub](https://github.com/Ghise01)
